@@ -21,3 +21,7 @@ sources:
       - name: order_item
       - name: seller
       - name: user
+
+  - name: airbnb
+    schema: airbnb
+  - name: listings
